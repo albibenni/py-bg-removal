@@ -1,6 +1,6 @@
 ## text
-- [ ] create py project
-- [ ] read the docs - https://github.com/danielgatis/rembg
+- [x] create py project
+- [x] read the docs - https://github.com/danielgatis/rembg
 - [ ] create a flask/fastapi app
-- [ ] create a docker container for the app
-- [ ] docker container for the app
+    - [] create a basic html/js entry point
+- [x] create a docker container for the app
